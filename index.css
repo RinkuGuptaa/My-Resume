@@ -1,0 +1,191 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+    color: #2c3e50;
+}
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+header h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #2980b9;
+}
+header p {
+    font-size: 16px;
+    color: #7f8c8d;
+}
+
+.section-title {
+    font-size: 1.5em;
+    color: #2980b9;
+    border-bottom: 2px solid #2980b9;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+
+.section-content {
+    margin-left: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.list-item {
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.list-item a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+.list-item a:hover {
+    text-decoration: underline;
+}
+
+.contact ul, .skills ul, .projects ul {
+    padding-left: 20px;
+}
+
+.list-item span {
+    font-weight: bold;
+}
+
+.project {
+    background-color: #ecf0f1;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.project h3 {
+    margin-top: 0;
+    color: #2980b9;
+}
+
+.project p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #34495e;
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 2px solid #ecf0f1;
+}
+
+/* Hover Effects */
+.list-item:hover {
+    background-color: #ecf0f1;
+    padding-left: 10px;
+    transition: all 0.3s ease;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .container {
+        width: 90%;
+        padding: 25px;
+    }
+
+    header h1 {
+        font-size: 32px;
+    }
+
+    .section-title {
+        font-size: 1.4em;
+    }
+
+    .list-item {
+        font-size: 14px;
+    }
+
+    .project p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 20px;
+    }
+
+    header h1 {
+        font-size: 28px;
+    }
+
+    header p {
+        font-size: 14px;
+    }
+
+    .section-title {
+        font-size: 1.3em;
+    }
+
+    .list-item {
+        font-size: 14px;
+    }
+
+    .project p {
+        font-size: 12px;
+    }
+
+    .footer {
+        font-size: 0.85em;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 100%;
+        padding: 15px;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    header p {
+        font-size: 12px;
+    }
+
+    .section-title {
+        font-size: 1.2em;
+    }
+
+    .list-item {
+        font-size: 13px;
+    }
+
+    .project p {
+        font-size: 11px;
+    }
+
+    .footer {
+        font-size: 0.8em;
+    }
+}
