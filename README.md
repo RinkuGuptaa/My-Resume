@@ -54,19 +54,4 @@ Here are some of the notable projects I have worked on:
 - [C & C++](https://drive.google.com/file/d/17hKziIhC3foTq6ZAhxuW6788LByf_YJI/view?usp=drivesdk)
 - [Google Cyber Security](https://drive.google.com/file/d/1Z8DrteLSO4l2XgxktaUp-DV-uoB5qIV0/view?usp=drivesdk)
 
-## Contact
 
-Feel free to reach out to me:
-
-- Phone: [+91-8399807292](tel:+918399807292)
-- Email: [rinku2001gupta@gmail.com](mailto:rinku2001gupta@gmail.com)
-- LinkedIn: [linkedin.com/in/rinku-gupta-384b07283](http://www.linkedin.com/in/rinku-gupta-384b07283)
-- GitHub: [github.com/RinkuGuptaa](https://github.com/RinkuGuptaa)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for visiting my portfolio!
