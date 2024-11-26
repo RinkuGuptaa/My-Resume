@@ -1,6 +1,6 @@
-# Rinku Kumar Gupta's Portfolio
+# Rinku Kumar Gupta
 
-Welcome to my portfolio! This repository contains my personal projects, resume, and information about my skills and experiences as a Computer Science Engineering student.
+Welcome! This repository contains my personal projects, resume, and information about my skills and experiences as a Computer Science Engineering student.
 
 ## About Me
 
